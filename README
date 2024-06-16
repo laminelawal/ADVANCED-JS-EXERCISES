@@ -1,0 +1,40 @@
+#JAVASCRIPT //advanced exercises
+
+WELCOME DEAR DEVELOPER
+
+## Installation
+
+To install the project, follow these steps:
+
+1. Clone the repository:
+   taping: git clone
+   ```
+
+   ```
+2. Navigate to the project directory:
+   cd repo
+   ```
+
+   ```
+3. Install dependencies:
+   npm install parcel
+   ```
+
+   ```
+
+## Usage
+
+To use this project, run the following command:
+you should past this in your json packages:
+"scripts": {
+"start": "parcel index.html",
+"build": "parcel build index.html"
+}
+
+If you just copy the codes then pasted in your project.
+
+npm start
+
+```
+
+```
